@@ -1,0 +1,19 @@
+{
+  "name": "amap-types",
+  "version": "1.0.0",
+  "description": "amap typescript types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdguysFEE/amap-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdguysFEE/amap-types/issues"
+  },
+  "homepage": "https://github.com/cdguysFEE/amap-types#readme"
+}
